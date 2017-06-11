@@ -1,0 +1,42 @@
+[
+                  { "book_name" : "Harry Potter",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "http://prodimage.images-bn.com/pimages/9781338099133_p0_v5_s1200x630.jpg", 
+                    "rating" : 3,
+                    "author_name":"J K Rowling" },
+
+                  { "book_name" : "Your Dreams are mine now",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "http://prodimage.images-bn.com/pimages/9781338099133_p0_v5_s1200x630.jpg", 
+                    "rating" : 3,
+                    "author_name":"J K Rowling" },
+
+                  { "book_name" : "Harry Potter",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "http://prodimage.images-bn.com/pimages/9781338099133_p0_v5_s1200x630.jpg", 
+                    "rating" : 3,
+                    "author_name":"Your Dreams are mine now" },
+
+                  { "book_name" : "Harry Potter",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "http://prodimage.images-bn.com/pimages/9781338099133_p0_v5_s1200x630.jpg", 
+                    "rating" : 3,
+                    "author_name":"J K Rowling" },
+
+                  { "book_name" : "Harry Potter",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "http://prodimage.images-bn.com/pimages/9781338099133_p0_v5_s1200x630.jpg", 
+                    "rating" : 3,
+                    "author_name":"J K Rowling" },
+
+                  { "book_name" : "Harry Potter",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "http://prodimage.images-bn.com/pimages/9781338099133_p0_v5_s1200x630.jpg", 
+                    "rating" : 3,
+                    "author_name":"J K Rowling" },
+
+                  { "book_name" : "Harry Potter",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "http://prodimage.images-bn.com/pimages/9781338099133_p0_v5_s1200x630.jpg", 
+                    "rating" : 3,
+                    "author_name":"J K Rowling" }]
