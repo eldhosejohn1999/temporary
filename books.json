@@ -6,7 +6,7 @@
                     "author_name":"J K Rowling" },
 
                   { "book_name" : "Beautiful Disaster",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Sports", 
                     "thumb_url" : "https://images.gr-assets.com/books/1358259032l/11505797.jpg", 
                     "rating" : 5,
                     "author_name":"Jamie McGuire" },
@@ -30,7 +30,7 @@
                     "author_name":"Sylvain Reynard" },
 
                   { "book_name" : "Reflected in You",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Sports", 
                     "thumb_url" : "https://images.gr-assets.com/books/1477802540l/13596809.jpg", 
                     "rating" : 2,
                     "author_name":"Sylvia Day" },
@@ -66,13 +66,13 @@
                     "author_name":"Sylvain Reynard" },
 
                   { "book_name" : "Reflected in You",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Sports", 
                     "thumb_url" : "https://images.gr-assets.com/books/1477802540l/13596809.jpg", 
                     "rating" : 3,
                     "author_name":"Sylvia Day" },
 
                   { "book_name" : "The Coincidence of Callie & Kayden",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Sports", 
                     "thumb_url" : "https://images.gr-assets.com/books/1353550763l/16113791.jpg", 
                     "rating" : 3,
                     "author_name":" Jessica Sorensen" },
@@ -102,7 +102,7 @@
                     "author_name":"Sylvain Reynard" },
 
                   { "book_name" : "Reflected in You",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Sports", 
                     "thumb_url" : "https://images.gr-assets.com/books/1477802540l/13596809.jpg", 
                     "rating" : 3,
                     "author_name":"Sylvia Day" },
@@ -126,7 +126,7 @@
                     "author_name":" E.L. James" },
 
                   { "book_name" : "Hopeless",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Sports", 
                     "thumb_url" : "https://images.gr-assets.com/books/1353489892l/15717943.jpg", 
                     "rating" : 3,
                     "author_name":" Colleen Hoover" },
@@ -144,7 +144,7 @@
                     "author_name":"Sylvia Day" },
 
                   { "book_name" : "The Coincidence of Callie & Kayden",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Games", 
                     "thumb_url" : "https://images.gr-assets.com/books/1353550763l/16113791.jpg", 
                     "rating" : 3,
                     "author_name":" Jessica Sorensen" },
@@ -156,7 +156,7 @@
                     "author_name":"Jamie McGuire" },
 
                   { "book_name" : "Fifty Shades of Grey",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Games", 
                     "thumb_url" : "https://images.gr-assets.com/books/1385207843l/10818853.jpg", 
                     "rating" : 3,
                     "author_name":" E.L. James" },
@@ -168,7 +168,7 @@
                     "author_name":" Colleen Hoover" },
 
                   { "book_name" : "Gabriel's Inferno",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Sports", 
                     "thumb_url" : "https://images.gr-assets.com/books/1301789770l/10140661.jpg", 
                     "rating" : 3,
                     "author_name":"Sylvain Reynard" },
@@ -180,13 +180,13 @@
                     "author_name":"Sylvia Day" },
 
                   { "book_name" : "The Coincidence of Callie & Kayden",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Games", 
                     "thumb_url" : "https://images.gr-assets.com/books/1353550763l/16113791.jpg", 
                     "rating" : 4,
                     "author_name":" Jessica Sorensen" },
 
                   { "book_name" : "Beautiful Disaster",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Games", 
                     "thumb_url" : "https://images.gr-assets.com/books/1358259032l/11505797.jpg", 
                     "rating" : 5,
                     "author_name":"Jamie McGuire" },
@@ -210,13 +210,13 @@
                     "author_name":"Sylvain Reynard" },
 
                   { "book_name" : "Reflected in You",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Sports", 
                     "thumb_url" : "https://images.gr-assets.com/books/1477802540l/13596809.jpg", 
                     "rating" : 5,
                     "author_name":"Sylvia Day" },
 
                   { "book_name" : "The Coincidence of Callie & Kayden",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Games", 
                     "thumb_url" : "https://images.gr-assets.com/books/1353550763l/16113791.jpg", 
                     "rating" : 3,
                     "author_name":" Jessica Sorensen" },
@@ -252,13 +252,13 @@
                     "author_name":"Sylvia Day" },
 
                   { "book_name" : "The Coincidence of Callie & Kayden",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Sports", 
                     "thumb_url" : "https://images.gr-assets.com/books/1353550763l/16113791.jpg", 
                     "rating" : 2,
                     "author_name":" Jessica Sorensen" },
 
                   { "book_name" : "Beautiful Disaster",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Games", 
                     "thumb_url" : "https://images.gr-assets.com/books/1358259032l/11505797.jpg", 
                     "rating" : 3,
                     "author_name":"Jamie McGuire" },
@@ -282,7 +282,7 @@
                     "author_name":"Sylvain Reynard" },
 
                   { "book_name" : "Reflected in You",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Games", 
                     "thumb_url" : "https://images.gr-assets.com/books/1477802540l/13596809.jpg", 
                     "rating" : 3,
                     "author_name":"Sylvia Day" },
@@ -294,7 +294,7 @@
                     "author_name":" Jessica Sorensen" },
 
                   { "book_name" : "Beautiful Disaster",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Sports", 
                     "thumb_url" : "https://images.gr-assets.com/books/1358259032l/11505797.jpg", 
                     "rating" : 3,
                     "author_name":"Jamie McGuire" },
@@ -312,43 +312,7 @@
                     "author_name":" Colleen Hoover" },
 
                   { "book_name" : "Gabriel's Inferno",
-                    "book_type" : "Fiction", 
-                    "thumb_url" : "https://images.gr-assets.com/books/1301789770l/10140661.jpg", 
-                    "rating" : 3,
-                    "author_name":"Sylvain Reynard" },
-
-                  { "book_name" : "Reflected in You",
-                    "book_type" : "Fiction", 
-                    "thumb_url" : "https://images.gr-assets.com/books/1477802540l/13596809.jpg", 
-                    "rating" : 3,
-                    "author_name":"Sylvia Day" },
-
-                  { "book_name" : "The Coincidence of Callie & Kayden",
-                    "book_type" : "Fiction", 
-                    "thumb_url" : "https://images.gr-assets.com/books/1353550763l/16113791.jpg", 
-                    "rating" : 3,
-                    "author_name":" Jessica Sorensen" },
-
-                  { "book_name" : "Beautiful Disaster",
-                    "book_type" : "Fiction", 
-                    "thumb_url" : "https://images.gr-assets.com/books/1358259032l/11505797.jpg", 
-                    "rating" : 3,
-                    "author_name":"Jamie McGuire" },
-
-                  { "book_name" : "Fifty Shades of Grey",
-                    "book_type" : "Fiction", 
-                    "thumb_url" : "https://images.gr-assets.com/books/1385207843l/10818853.jpg", 
-                    "rating" : 3,
-                    "author_name":" E.L. James" },
-
-                  { "book_name" : "Hopeless",
-                    "book_type" : "Fiction", 
-                    "thumb_url" : "https://images.gr-assets.com/books/1353489892l/15717943.jpg", 
-                    "rating" : 3,
-                    "author_name":" Colleen Hoover" },
-
-                  { "book_name" : "Gabriel's Inferno",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Games", 
                     "thumb_url" : "https://images.gr-assets.com/books/1301789770l/10140661.jpg", 
                     "rating" : 3,
                     "author_name":"Sylvain Reynard" },
@@ -372,7 +336,73 @@
                     "author_name":"Jamie McGuire" },
 
                   { "book_name" : "Fifty Shades of Grey",
+                    "book_type" : "Games", 
+                    "thumb_url" : "https://images.gr-assets.com/books/1385207843l/10818853.jpg", 
+                    "rating" : 3,
+                    "author_name":" E.L. James" },
+
+                  { "book_name" : "Hopeless",
                     "book_type" : "Fiction", 
+                    "thumb_url" : "https://images.gr-assets.com/books/1353489892l/15717943.jpg", 
+                    "rating" : 3,
+                    "author_name":" Colleen Hoover" },
+
+                  { "book_name" : "Gabriel's Inferno",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "https://images.gr-assets.com/books/1301789770l/10140661.jpg", 
+                    "rating" : 3,
+                    "author_name":"Sylvain Reynard" },
+
+                  { "book_name" : "Reflected in You",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "https://images.gr-assets.com/books/1477802540l/13596809.jpg", 
+                    "rating" : 3,
+                    "author_name":"Sylvia Day" },
+
+                  { "book_name" : "The Coincidence of Callie & Kayden",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "https://images.gr-assets.com/books/1353550763l/16113791.jpg", 
+                    "rating" : 3,
+                    "author_name":" Jessica Sorensen" },
+
+                  { "book_name" : "Beautiful Disaster",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "https://images.gr-assets.com/books/1358259032l/11505797.jpg", 
+                    "rating" : 3,
+                    "author_name":"Jamie McGuire" },
+
+                  { "book_name" : "Fifty Shades of Grey",
+                    "book_type" : "Games", 
+                    "thumb_url" : "https://images.gr-assets.com/books/1385207843l/10818853.jpg", 
+                    "rating" : 3,
+                    "author_name":" E.L. James" },
+
+                  { "book_name" : "Hopeless",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "https://images.gr-assets.com/books/1353489892l/15717943.jpg", 
+                    "rating" : 3,
+                    "author_name":" Colleen Hoover" },
+
+                  { "book_name" : "Gabriel's Inferno",
+                    "book_type" : "Sports", 
+                    "thumb_url" : "https://images.gr-assets.com/books/1301789770l/10140661.jpg", 
+                    "rating" : 3,
+                    "author_name":"Sylvain Reynard" },
+
+                  { "book_name" : "Reflected in You",
+                    "book_type" : "Games", 
+                    "thumb_url" : "https://images.gr-assets.com/books/1477802540l/13596809.jpg", 
+                    "rating" : 3,
+                    "author_name":"Sylvia Day" },
+
+                  { "book_name" : "The Coincidence of Callie & Kayden",
+                    "book_type" : "Fiction", 
+                    "thumb_url" : "https://images.gr-assets.com/books/1353550763l/16113791.jpg", 
+                    "rating" : 3,
+                    "author_name":" Jessica Sorensen" },
+
+                  { "book_name" : "Fifty Shades of Grey",
+                    "book_type" : "Games", 
                     "thumb_url" : "https://images.gr-assets.com/books/1385207843l/10818853.jpg", 
                     "rating" : 3,
                     "author_name":" E.L. James" },
@@ -408,7 +438,7 @@
                     "author_name":" E.L. James" },
 
                   { "book_name" : "Hopeless",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Games", 
                     "thumb_url" : "https://images.gr-assets.com/books/1353489892l/15717943.jpg", 
                     "rating" : 3,
                     "author_name":" Colleen Hoover" },
@@ -426,7 +456,7 @@
                     "author_name":"Sylvia Day" },
 
                   { "book_name" : "The Coincidence of Callie & Kayden",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Arts", 
                     "thumb_url" : "https://images.gr-assets.com/books/1353550763l/16113791.jpg", 
                     "rating" : 3,
                     "author_name":" Jessica Sorensen" },
@@ -462,7 +492,7 @@
                     "author_name":" Jessica Sorensen" },
 
                   { "book_name" : "Fifty Shades of Grey",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Arts", 
                     "thumb_url" : "https://images.gr-assets.com/books/1385207843l/10818853.jpg", 
                     "rating" : 3,
                     "author_name":" E.L. James" },
@@ -492,7 +522,7 @@
                     "author_name":" Jessica Sorensen" },
 
                   { "book_name" : "Fifty Shades of Grey",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Arts", 
                     "thumb_url" : "https://images.gr-assets.com/books/1385207843l/10818853.jpg", 
                     "rating" : 3,
                     "author_name":" E.L. James" },
@@ -516,37 +546,7 @@
                     "author_name":"Sylvia Day" },
 
                   { "book_name" : "The Coincidence of Callie & Kayden",
-                    "book_type" : "Fiction", 
-                    "thumb_url" : "https://images.gr-assets.com/books/1353550763l/16113791.jpg", 
-                    "rating" : 3,
-                    "author_name":" Jessica Sorensen" },
-
-                  { "book_name" : "Fifty Shades of Grey",
-                    "book_type" : "Fiction", 
-                    "thumb_url" : "https://images.gr-assets.com/books/1385207843l/10818853.jpg", 
-                    "rating" : 3,
-                    "author_name":" E.L. James" },
-
-                  { "book_name" : "Hopeless",
-                    "book_type" : "Fiction", 
-                    "thumb_url" : "https://images.gr-assets.com/books/1353489892l/15717943.jpg", 
-                    "rating" : 3,
-                    "author_name":" Colleen Hoover" },
-
-                  { "book_name" : "Gabriel's Inferno",
-                    "book_type" : "Fiction", 
-                    "thumb_url" : "https://images.gr-assets.com/books/1301789770l/10140661.jpg", 
-                    "rating" : 3,
-                    "author_name":"Sylvain Reynard" },
-
-                  { "book_name" : "Reflected in You",
-                    "book_type" : "Fiction", 
-                    "thumb_url" : "https://images.gr-assets.com/books/1477802540l/13596809.jpg", 
-                    "rating" : 3,
-                    "author_name":"Sylvia Day" },
-
-                  { "book_name" : "The Coincidence of Callie & Kayden",
-                    "book_type" : "Fiction", 
+                    "book_type" : "Arts", 
                     "thumb_url" : "https://images.gr-assets.com/books/1353550763l/16113791.jpg", 
                     "rating" : 3,
                     "author_name":" Jessica Sorensen" }]
